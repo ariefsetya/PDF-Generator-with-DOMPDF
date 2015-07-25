@@ -1,0 +1,47 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName flaticon
+FontSubfamily Regular
+UniqueID FontForge 2.0 : flaticon : 6-3-2014
+FullName flaticon
+Version Version 1.0
+PostScriptName flaticon
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 90
+Ascender 875
+Descender -127
+FontBBox 0 -127 1250 875
+StartCharMetrics 28
+U 57344 ; WX 1000 ; N arrow103 ; G 3
+U 57345 ; WX 1000 ; N arrow483 ; G 4
+U 57346 ; WX 1000 ; N black11 ; G 5
+U 57347 ; WX 1000 ; N check26 ; G 6
+U 57348 ; WX 1000 ; N checkbox2 ; G 7
+U 57349 ; WX 1000 ; N checkbox3 ; G 8
+U 57350 ; WX 1000 ; N clock4 ; G 9
+U 57351 ; WX 1000 ; N eye38 ; G 10
+U 57352 ; WX 1250 ; N file1 ; G 11
+U 57353 ; WX 563 ; N great8 ; G 12
+U 57354 ; WX 1000 ; N line6 ; G 13
+U 57355 ; WX 1000 ; N menu20 ; G 14
+U 57356 ; WX 1000 ; N minus14 ; G 15
+U 57357 ; WX 1479 ; N remove11 ; G 16
+U 57358 ; WX 1000 ; N search4 ; G 17
+U 57359 ; WX 1000 ; N settings21 ; G 18
+U 57360 ; WX 1000 ; N sort33 ; G 19
+U 57361 ; WX 1000 ; N sort35 ; G 20
+U 57362 ; WX 1000 ; N sort37 ; G 21
+U 57363 ; WX 1000 ; N square58 ; G 22
+U 57364 ; WX 1000 ; N star108 ; G 23
+U 57365 ; WX 1000 ; N star109 ; G 24
+U 57366 ; WX 1000 ; N star111 ; G 25
+U 57367 ; WX 1125 ; N time5 ; G 26
+U 57368 ; WX 1000 ; N windows13 ; G 27
+EndCharMetrics
+EndFontMetrics
